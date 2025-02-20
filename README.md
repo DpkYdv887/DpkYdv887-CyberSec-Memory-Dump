@@ -13,7 +13,7 @@ For part 1 , we created a text file containing the given credentials and we kept
 Username: forensic_user
 Password: SuperSecretPass123!
 
-
+![image alt](https://github.com/DpkYdv887/DpkYdv887-CyberSec-Memory-Dump/blob/main/images/Picture1.png?raw=true)
 
 
 and started to dump the system memory 
