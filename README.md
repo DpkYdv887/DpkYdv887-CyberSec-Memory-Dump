@@ -18,15 +18,16 @@ Password: SuperSecretPass123!
 
 and started to dump the system memory 
 
-
+![image alt](https://github.com/DpkYdv887/DpkYdv887-CyberSec-Memory-Dump/blob/main/images/Picture2.png?raw=true)
 
 
 and filtered the results to find the ‘Username’
 
+![image alt](https://github.com/DpkYdv887/DpkYdv887-CyberSec-Memory-Dump/blob/main/images/Picture3.png?raw=true)
 
 and the ‘Password’
 
-
+![image alt](https://github.com/DpkYdv887/DpkYdv887-CyberSec-Memory-Dump/blob/main/images/Picture4.png)
 
 
 Part 2: Extracting Data from a Web Browser’s Memory
